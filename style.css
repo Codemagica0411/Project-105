@@ -1,0 +1,22 @@
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+body
+{
+  color: white;
+  background: #c0d3ff;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+  background-color: blue;
+}
+#result_object_name, #result_object_accuracy
+{
+font-size: 25px;
+font-weight: bold;
+}
